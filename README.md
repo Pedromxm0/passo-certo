@@ -40,7 +40,7 @@
     <h2>Produtos</h2>
     <div class="products">
       <div class="product-card">
-        <img src="https://via.placeholder.com/200x150.png?text=Tenis+Ortopedico" alt="Tênis Ortopédico">
+        <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-4634-6230-80cc-97a42f2b31e8/raw?se=2025-05-24T22%3A34%3A09Z&sp=r&sv=2024-08-04&sr=b&scid=c49245b3-b026-5ec3-8ca9-159857c3c9e9&skoid=61180a4f-34a9-42b7-b76d-9ca47d89946d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-24T01%3A39%3A48Z&ske=2025-05-25T01%3A39%3A48Z&sks=b&skv=2024-08-04&sig=XYL%2B7sKNU9MR9x%2BdGYwve8itury0shYP6mGfPKWZ6Y4%3D=Tenis+Ortopedico" alt="Tênis Ortopédico">
         <h3>Tênis Ortopédico</h3>
         <p>Conforto e suporte para sua saúde.</p>
       </div>
